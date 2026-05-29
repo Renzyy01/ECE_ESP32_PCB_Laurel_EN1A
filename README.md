@@ -28,19 +28,20 @@ Through the integration of sensors and microcontroller-based processing, the IDI
 
 - NPK Soil Sensor
 - Arduino Uno
-- ESP32 Microcontroller
 - Jumper Wires
 - Breadboard or Prototype Board
-- Resistors
-- Capacitors
-- LEDs
+- LCD
 - Power Supply Module
+- 5V SINGLE -CHANNEL RELAY MODULE
+- LM2596 DC-DC STEP DOWN VOLTAGE CONVERTER
 
 ---
 
 ## Software Used
 
 - Arduino IDE
+- EasyEda
+  
   
 
 ---
